@@ -6,11 +6,41 @@ body {
 h1 {
     color: black;
     text-align: center;
+    font-family: 'Lato', sans-serif;
 }
 
 .button1 {
     text-align: center;
     display: block;
-    margin-top: 650px;
+    margin-top: 600px;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    font-size: 30px;
 }
 
+.button2 {
+    text-align: left;
+    display: block;
+    margin-top: -670px;
+    margin-left: 40px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.button2a {
+    text-align: left;
+    display: block;
+    margin-top: -60px;
+    margin-left: 40px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.button3 {
+    text-align: left;
+    display: block;
+    margin-top: -28px;
+    margin-left: 120px;
+    text-decoration: none;
+    font-size: 25px;
+}
